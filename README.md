@@ -1,4 +1,4 @@
-# 🚢 Titanic — Análise Exploratória de Dados (EDA)
+# Titanic — Análise Exploratória de Dados (EDA)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?style=flat&logo=pandas)
@@ -15,9 +15,9 @@ Este projeto apresenta uma **Análise Exploratória de Dados (EDA)** completa so
 
 O naufrágio do RMS Titanic em 1912 é um dos acidentes marítimos mais conhecidos da história. A partir dos dados dos passageiros, investigamos:
 
-- 🔍 Quem eram os passageiros do Titanic?
-- 📊 Quais fatores influenciaram a sobrevivência?
-- 💡 O que os dados revelam sobre desigualdade social e prioridade no resgate?
+- Quem eram os passageiros do Titanic?
+- Quais fatores influenciaram a sobrevivência?
+- O que os dados revelam sobre desigualdade social e prioridade no resgate?
 
 ---
 
