@@ -100,6 +100,7 @@ Ou acesse diretamente pelo [Kaggle](https://www.kaggle.com/code/brenosilvabarros
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-brenosilvabarros-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/code/brenosilvabarros/titanic-eda-an-lise-explorat-ria-completa)
 [![GitHub](https://img.shields.io/badge/GitHub-Oberon--23-181717?style=flat&logo=github)](https://github.com/Oberon-23/titanic-eda-analise-exploratoria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Breno_Silva-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/brenosilvarangel/)
 
 ---
 
